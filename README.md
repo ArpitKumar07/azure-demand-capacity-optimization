@@ -4,7 +4,7 @@
 
 ## 📝 Description
 
-Azure_Demamd_Project is a sophisticated cloud-based analytical framework designed to streamline demand forecasting and resource optimization. Built on the Microsoft Azure platform, this project provides a data-centric approach to predicting market needs and managing supply chain complexities. By leveraging cloud scalability and advanced data processing, the project empowers organizations to make informed, proactive decisions, ensuring that resource allocation aligns perfectly with fluctuating demand patterns for maximum operational efficiency.
+Azure Demand Project is a sophisticated cloud-based solution engineered to leverage the Microsoft Azure ecosystem for high-precision demand forecasting and resource management. This initiative focuses on utilizing Azure's scalable infrastructure to provide organizations with actionable insights into future resource requirements, enabling data-driven decision-making, cost optimization, and improved operational efficiency across diverse cloud-native applications.
 
 ## 📁 Project Structure
 
@@ -13,6 +13,7 @@ Azure_Demamd_Project
 ├── Azure_Demand_Forecasting_Data.csv
 ├── LICENSE.txt
 ├── azure_demand.py
+├── milestone_two.py
 ├── usage_units_Central-India.png
 ├── usage_units_East-Asia.png
 ├── usage_units_East-US.png
@@ -32,3 +33,4 @@ Contributions are welcome! Here's how you can help:
 6. **Open** a pull request
 
 Please ensure your code follows the project's style guidelines and includes tests where applicable.
+
