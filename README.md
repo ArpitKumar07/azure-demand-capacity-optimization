@@ -26,7 +26,7 @@ Azure_Demamd_Project
 Contributions are welcome! Here's how you can help:
 
 1. **Fork** the repository
-2. **Clone** your fork: https://github.com/ArpitKumar07/azure-demand-capacity-optimization
+2. **Clone** your fork: https://github.com/ArpitKumar07/azure-demand-capacity-optimization.git
 3. **Create** a new branch: `git checkout -b feature/your-feature`
 4. **Commit** your changes: `git commit -am 'Add some feature'`
 5. **Push** to your branch: `git push origin feature/your-feature`
