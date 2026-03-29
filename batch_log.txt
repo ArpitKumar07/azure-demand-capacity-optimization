@@ -1,0 +1,15 @@
+2026-03-29 01:36:06,946 - INFO - Model loaded for batch prediction.
+2026-03-29 01:36:06,967 - INFO - Loaded 5000 rows from 'new_data.csv'
+2026-03-29 01:36:06,967 - INFO - Forecasting 5000 steps ahead using ARIMA...
+2026-03-29 01:36:07,014 - INFO - Forecast saved to 'forecast_output.csv' (5000 rows)
+2026-03-29 01:36:07,028 - INFO - Batch prediction completed successfully.
+2026-03-29 01:40:29,762 - INFO - Model loaded for batch prediction.
+2026-03-29 01:40:29,794 - INFO - Loaded 5000 rows from 'new_data.csv'
+2026-03-29 01:40:29,794 - INFO - Forecasting 5000 steps ahead using ARIMA...
+2026-03-29 01:40:29,842 - INFO - Forecast saved to 'forecast_output.csv' (5000 rows)
+2026-03-29 01:40:29,842 - INFO - Batch prediction completed successfully.
+2026-03-29 01:47:23,081 - INFO - Model loaded for batch prediction.
+2026-03-29 01:47:23,108 - INFO - Loaded 5000 rows from 'new_data.csv'
+2026-03-29 01:47:23,108 - INFO - Forecasting 5000 steps ahead using ARIMA...
+2026-03-29 01:47:23,157 - INFO - Forecast saved to 'forecast_output.csv' (5000 rows)
+2026-03-29 01:47:23,164 - INFO - Batch prediction completed successfully.

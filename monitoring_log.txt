@@ -1,0 +1,17 @@
+2026-03-29 01:37:05,723 - INFO - RMSE logged: {'timestamp': '2026-03-28T20:07:05.722340', 'n_samples': 5000, 'mae': 111.9581, 'rmse': 129.3206, 'bias': -0.8407, 'directional_accuracy_pct': 21.6}
+2026-03-29 01:37:05,723 - INFO - RMSE OK: 129.32 (threshold: 156.00)
+2026-03-29 01:37:05,723 - INFO - Monitoring run completed.
+2026-03-29 01:40:46,191 - INFO - RMSE logged: {'timestamp': '2026-03-28T20:10:46.189260', 'n_samples': 5000, 'mae': 111.9581, 'rmse': 129.3206, 'bias': -0.8407, 'directional_accuracy_pct': 21.6}
+2026-03-29 01:40:46,191 - INFO - RMSE OK: 129.32 (threshold: 156.00)
+2026-03-29 01:40:46,192 - INFO - Monitoring run completed.
+2026-03-29 01:41:16,340 - INFO - RMSE logged: {'timestamp': '2026-03-28T20:11:16.323794', 'n_samples': 5000, 'mae': 111.9581, 'rmse': 129.3206, 'bias': -0.8407, 'directional_accuracy_pct': 21.6}
+2026-03-29 01:41:16,343 - INFO - RMSE OK: 129.32 (threshold: 156.00)
+2026-03-29 01:41:16,343 - WARNING - Retraining skipped: updated_data.csv not found.
+2026-03-29 01:41:16,343 - INFO - Monitoring run completed.
+2026-03-29 01:47:40,232 - INFO - RMSE logged: {'timestamp': '2026-03-28T20:17:40.229684', 'n_samples': 5000, 'mae': 111.9581, 'rmse': 129.3206, 'bias': -0.8407, 'directional_accuracy_pct': 21.6}
+2026-03-29 01:47:40,232 - INFO - RMSE OK: 129.32 (threshold: 156.00)
+2026-03-29 01:47:40,232 - INFO - Monitoring run completed.
+2026-03-29 01:47:51,525 - INFO - RMSE logged: {'timestamp': '2026-03-28T20:17:51.523619', 'n_samples': 5000, 'mae': 111.9581, 'rmse': 129.3206, 'bias': -0.8407, 'directional_accuracy_pct': 21.6}
+2026-03-29 01:47:51,525 - INFO - RMSE OK: 129.32 (threshold: 156.00)
+2026-03-29 01:47:51,525 - WARNING - Retraining skipped: updated_data.csv not found.
+2026-03-29 01:47:51,525 - INFO - Monitoring run completed.

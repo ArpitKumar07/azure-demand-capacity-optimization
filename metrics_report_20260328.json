@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-03-28T20:41:01.822620",
+  "records": 5000,
+  "metrics": {
+    "rmse": 17.401829246110204,
+    "mae": 13.659879847729638,
+    "bias": 0.01290661677111712,
+    "directional_accuracy": 93.05861172234447,
+    "utilisation": 79.03734353392151
+  },
+  "drift_detected": false,
+  "capacity_breaches": 2456
+}
