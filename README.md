@@ -83,7 +83,7 @@ plotly: 5.22.0
 Contributions are welcome! Here's how you can help:
 
 1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/ArpitKumar07/azure-demand-capacity-optimization.git`
+2. **Clone** your fork: https://github.com/ArpitKumar07/azure-demand-capacity-optimization.git
 3. **Create** a new branch: `git checkout -b feature/your-feature`
 4. **Commit** your changes: `git commit -am 'Add some feature'`
 5. **Push** to your branch: `git push origin feature/your-feature`
@@ -94,5 +94,7 @@ Please ensure your code follows the project's style guidelines and includes test
 ## 📜 License
 
 This project is licensed under the LICENSE License.
+
+
 
 Deployed link: https://azure-demand-capacity-optimization-bor8hcteyfzymtrd8nwfuf.streamlit.app/
