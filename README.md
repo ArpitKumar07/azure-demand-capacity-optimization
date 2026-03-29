@@ -98,3 +98,10 @@ This project is licensed under the LICENSE License.
 
 
 Deployed link: https://azure-demand-capacity-optimization-bor8hcteyfzymtrd8nwfuf.streamlit.app/
+
+
+## 🎥 Demo Video
+
+Click below to watch the demo:
+
+👉 [Watch Full Demo](https://drive.google.com/file/d/1yLcwncgHqn6EPfMHyFQw85aErF4wKcwJ/view?usp=sharing)
