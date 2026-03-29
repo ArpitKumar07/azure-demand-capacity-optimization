@@ -94,3 +94,5 @@ Please ensure your code follows the project's style guidelines and includes test
 ## 📜 License
 
 This project is licensed under the LICENSE License.
+
+Deployed link: https://azure-demand-capacity-optimization-bor8hcteyfzymtrd8nwfuf.streamlit.app/
