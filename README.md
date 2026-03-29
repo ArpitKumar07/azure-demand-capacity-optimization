@@ -4,7 +4,7 @@
 
 ## 📝 Description
 
-Azure Demand Project is a sophisticated cloud-based solution engineered to leverage the Microsoft Azure ecosystem for high-precision demand forecasting and resource management. This initiative focuses on utilizing Azure's scalable infrastructure to provide organizations with actionable insights into future resource requirements, enabling data-driven decision-making, cost optimization, and improved operational efficiency across diverse cloud-native applications.
+Azure Demand Project is a sophisticated cloud infrastructure management solution designed to optimize resource allocation and predict capacity needs within the Azure environment. By leveraging real-time data analytics and automated scaling strategies, this project empowers organizations to maintain peak performance while minimizing operational overhead and ensuring seamless scalability for enterprise-level cloud deployments.
 
 ## 📁 Project Structure
 
@@ -12,8 +12,14 @@ Azure Demand Project is a sophisticated cloud-based solution engineered to lever
 Azure_Demamd_Project
 ├── Azure_Demand_Forecasting_Data.csv
 ├── LICENSE.txt
+├── actual_vs_predicted.png
 ├── azure_demand.py
+├── best_arima_model.pkl
+├── demand_forecast_comparison.png
+├── feature_importance.png
+├── milestone_three.py
 ├── milestone_two.py
+├── model_rmse_comparison.png
 ├── usage_units_Central-India.png
 ├── usage_units_East-Asia.png
 ├── usage_units_East-US.png
@@ -33,4 +39,5 @@ Contributions are welcome! Here's how you can help:
 6. **Open** a pull request
 
 Please ensure your code follows the project's style guidelines and includes tests where applicable.
+
 
